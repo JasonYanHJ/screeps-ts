@@ -43,6 +43,8 @@ nbproject
 *.sublime-project
 *.sublime-workspace
 .idea
+.vscode
+.devcontainer
 
 # =========================
 # Operating System Files
